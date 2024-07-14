@@ -38,7 +38,7 @@ LiterAlura es un proyecto desarrollada en Java como parte del curso de especiali
 
 5. **Funcionalidades Extra**
 - **Generación de Estadísticas**:Implementación de funcionalidades para generar estadísticas de los libros y autores, como los libros más descargados o los autores más prolíficos.
--**Búsqueda de Autor por Nombre**:Permitir la búsqueda de autores por nombre, mostrando detalles completos del autor y sus libros asociados.
+- **Búsqueda de Autor por Nombre**:Permitir la búsqueda de autores por nombre, mostrando detalles completos del autor y sus libros asociados.
 - **Listado de Autores por Diversos Criterios**:Añadir funcionalidades para listar autores según diversos criterios adicionales, como autores por nacionalidad, género literario, etc.
 
 ## 🚀 Cómo Ejecutar el Proyecto
