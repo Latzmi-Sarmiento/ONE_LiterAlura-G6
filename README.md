@@ -47,6 +47,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 - **Ejecutar el Proyecto**: Usa tu IDE para compilar y ejecutar la clase <code>LiteraturaApplication</code>.
 
 ## ✅ Insignia de Entregado para este Challenge
+![badge literalura](https://github.com/user-attachments/assets/8b5b7af2-940c-4856-a668-99931932ac8f)
 
 
 ## 💬 Datos de Contacto
