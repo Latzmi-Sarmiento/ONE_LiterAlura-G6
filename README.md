@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/license-MIT-blue)](#)
 
 ## 📋 Descripción del Proyecto
-LiterAlura es una aplicación en Java desarrollada como parte del curso de especialización Back-End G6 de Alura - Oracle Next Education (ONE). El objetivo principal del proyecto es permitir la búsqueda y gestión de libros y autores utilizando datos de la API de Gutendex. La aplicación permite a los usuarios buscar libros por título, listar autores almacenados en la base de datos, filtrar autores vivos en un año específico, y buscar libros por idioma.
+LiterAlura es un proyecto desarrollada en Java como parte del curso de especialización Back-End G6 de Alura - Oracle Next Education (ONE). El objetivo principal del proyecto es permitir la búsqueda y gestión de libros y autores utilizando datos de la API de Gutendex. La aplicación permite a los usuarios buscar libros por título, listar autores almacenados en la base de datos, filtrar autores vivos en un año específico, y buscar libros por idioma.
 
 ## 🛠️ Tecnologías Utilizadas
 - **IntelliJ IDEA Community Edition y JDK**: Instalar y configurar el entorno de desarrollo Java con IntelliJ IDEA y la versión del JDK 17 o superior.
