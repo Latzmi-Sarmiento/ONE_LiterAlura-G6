@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/license-MIT-blue)](#)
 
 ## 📋 Descripción del Proyecto
-LiterAlura es un proyecto desarrollada en Java como parte del curso de especialización Back-End G6 de Alura - Oracle Next Education (ONE). El objetivo principal del proyecto es permitir la búsqueda y gestión de libros y autores utilizando datos de la API de Gutendex. La aplicación permite a los usuarios buscar libros por título, listar autores almacenados en la base de datos, filtrar autores vivos en un año específico, y buscar libros por idioma.
+LiterAlura es un proyecto desarrollada en Java como parte del curso de especialización *Back-End G6 de Alura - Oracle Next Education (ONE)*. El objetivo principal del proyecto es permitir la búsqueda y gestión de libros y autores utilizando datos de la API de Gutendex. La aplicación permite a los usuarios buscar libros por título, listar autores almacenados en la base de datos, filtrar autores vivos en un año específico, y buscar libros por idioma.
 
 ## 🛠️ Tecnologías Utilizadas
 - **IntelliJ IDEA Community Edition y JDK**: Instalar y configurar el entorno de desarrollo Java con IntelliJ IDEA y la versión del JDK 17 o superior.
@@ -36,22 +36,20 @@ LiterAlura es un proyecto desarrollada en Java como parte del curso de especiali
 
 4. **Documentación**: Documentar el proyecto en GitHub, incluyendo instrucciones de uso, dependencias y una descripción del funcionamiento en un README.
 
-5. **Funcionalidades Extra**
-- **Generación de Estadísticas**:Implementación de funcionalidades para generar estadísticas de los libros y autores, como los libros más descargados o los autores más prolíficos.
-- **Búsqueda de Autor por Nombre**:Permitir la búsqueda de autores por nombre, mostrando detalles completos del autor y sus libros asociados.
-- **Listado de Autores por Diversos Criterios**:Añadir funcionalidades para listar autores según diversos criterios adicionales, como autores por nacionalidad, género literario, etc.
-
+5. **Funcionalidades Extra**: Puedes añadir algunas funciones más al LiterAlura como la <code>generación de Estadísticas</code> (los libros más descargados o los autores más prolíficos), <code>búsqueda de Autor por nombre</code> y <code>listado de autores por diversos criterios</code>.
+   
 ## 🚀 Cómo Ejecutar el Proyecto
 Para ejecutar el proyecto, sigue estos pasos:
 
-- **Clona o descarga desde GitHub**: Clona o descarga el repositorio en tu disco local https://github.com/Latzmi-Sarmiento/ONE_LiterAlura-G6.git
+- **Clona o descarga desde GitHub**: Clona o descarga el repositorio en tu disco local <code>https://github.com/Latzmi-Sarmiento/ONE_LiterAlura-G6.git</code>
 - **Importa el proyecto**: Importa el proyecto en tu IDE (recomendado IntelliJ IDEA) y configura las dependencias.
-- **Ejecutar el Proyecto**: Usa tu IDE para compilar y ejecutar la clase LiteraturaApplication.
+- **Configurar la API Key**: Inserte su clave de API en la configuración del proyecto.
+- **Ejecutar el Proyecto**: Usa tu IDE para compilar y ejecutar la clase <code>LiteraturaApplication</code>.
 
 ## ✅ Insignia de Entregado para este Challenge
 
 
 ## 💬 Datos de Contacto
-Email:latzmisarmiento@gmail.com
+Email:<code>latzmisarmiento@gmail.com</code>
 
-Autor: Latzmi Sarmiento Palomino
+Autor:<code>Latzmi Sarmiento Palomino</code>
